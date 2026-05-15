@@ -1,16 +1,23 @@
-## Hi there 👋
+## ZiHEd
 
-<!--
-**Z1HEd/Z1HEd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I mostly work on games, mods, and random tools/apps that solve problems I run into.
 
-Here are some ideas to get you started:
+Currently working on a [roguelike game](https://github.com/Z1HEd/HeatDeath) in Unity 6.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Recent projects
+
+- 4D Miner mods:
+  - [BetterUX](https://github.com/Z1HEd/BetterUX)
+  - [Backpacks](https://github.com/Z1HEd/Backpacks)
+  - [Jetpack](https://github.com/Z1HEd/Jetpack)
+  - and a couple more
+- A [project management app](https://github.com/Z1HEd/ProjectManager) made in Godot with a Firebase backend
+- A [puzzle game](https://pronounce.itch.io/balls) released on itch.io
+
+### Tech stack
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
