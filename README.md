@@ -6,13 +6,15 @@ Currently working on a [roguelike game](https://github.com/Z1HEd/HeatDeath) in U
 
 ### Recent projects
 
+- A [puzzle game](https://pronounce.itch.io/balls) released on itch.io
+- A [project management app](https://github.com/Z1HEd/DotProjects) made in Godot with a Firebase backend
 - 4D Miner mods:
   - [BetterUX](https://github.com/Z1HEd/BetterUX)
   - [Backpacks](https://github.com/Z1HEd/Backpacks)
   - [Jetpack](https://github.com/Z1HEd/JetpackMod)
   - and a couple more
-- A [project management app](https://github.com/Z1HEd/DotProjects) made in Godot with a Firebase backend
-- A [puzzle game](https://pronounce.itch.io/balls) released on itch.io
+
+
 
 ### Tech stack
 
